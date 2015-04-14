@@ -6,7 +6,7 @@
     "properties": {
       "title": "Lord Somers Camp",
       "marker-symbol": "lodging"
-    },
+    }
   }, {
     "type": "Feature",
     "geometry": { "type": "Point", "coordinates": [ 150.799271, -34.075522 ] },
