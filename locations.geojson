@@ -5,7 +5,7 @@
     "geometry": { "type": "Point", "coordinates": [ 145.146303,  -38.390482 ] },
     "properties": {
       "title": "Lord Somers Camp",
-      "marker-symbol": "lodging"
+      "marker-symbol": "campsite"
     }
   }, {
     "type": "Feature",
