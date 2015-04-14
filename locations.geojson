@@ -4,6 +4,7 @@
     "type": "Feature",
     "geometry": { "type": "Point", "coordinates": [ 145.146303,  -38.390482 ] },
     "properties": {
+      "subtype": "destination",
       "title": "Lord Somers Camp",
       "marker-symbol": "campsite"
     }
@@ -11,9 +12,19 @@
     "type": "Feature",
     "geometry": { "type": "Point", "coordinates": [ 150.799271, -34.075522 ] },
     "properties": {
+      "subtype": "rally",
       "title": "Final Rally Point - Macarthur Square Shopping Centre",
       "description": "More specificity is required here, was thinking possibly Dan Murphy's as there seemed to be one nearby and should have both a car park and shouldn't be too busy",
       "marker-symbol": "lighthouse"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": { "type": "Point": "coordinates": [ 151.057246, 34.0325514 ] },
+    "properties": {
+      "subtype": "pickup",
+      "title": "Sutherland Train Station",
+      "description": "Damon able to pickup from here",
+      "marker-symbol": "rail"
     }
   }]
 }
