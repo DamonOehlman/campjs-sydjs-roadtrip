@@ -19,7 +19,7 @@
     }
   }, {
     "type": "Feature",
-    "geometry": { "type": "Point": "coordinates": [ 151.057246, 34.0325514 ] },
+    "geometry": { "type": "Point", "coordinates": [ 151.057246, -34.0325514 ] },
     "properties": {
       "subtype": "pickup",
       "title": "Sutherland Train Station",
