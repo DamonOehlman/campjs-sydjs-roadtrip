@@ -4,7 +4,16 @@
     "type": "Feature",
     "geometry": { "type": "Point", "coordinates": [ 145.146303,  -38.390482 ] },
     "properties": {
-      "name": "Lord Somers Camp"
+      "title": "Lord Somers Camp",
+      "marker-symbol": "lodging"
+    },
+
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [ 150.799271, -34.075522 ] },
+    "properties": {
+      "title": "Final Rally Point - Macarthur Square Shopping Centre",
+      "description": "More specificity is required here, was thinking possibly Dan Murphy's as there seemed to be one nearby and should have both a car park and shouldn't be too busy",
+      "marker-symbol": "lighthouse"
     }
   }]
 }
