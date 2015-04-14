@@ -11,3 +11,19 @@ While my knowledge of Sydney is limited, this seems to be a location that is fai
 ### Intermediate Rally Points
 
 Depending on how easy it is for folks to get to Campbelltown, it might be possible to have a few other secondary rally points that drivers can do a pickup from.  For instance, it would be easy for me to do a pickup from [Sutherland Station](http://www.sydneytrains.info/stations/station_details?stationId=84) if that was an easy place for a few people to get to.  If there is a similar location for you, and you are keen to join on the roadtrip feel free to do a PR and add your location to the [locations.geojson](locations.geojson) file.
+
+## I want in!
+
+If you want in on this, then the following criteria are required / desirable:
+
+1. Be willing to pitch in on the driving (given the vehicle owner's insurance permits this). If you don't have a license, then let us know when you get in touch. If most people are able to drive it will be a complete non-issue.
+
+2. Help cover the cost of fuel. Unfortunately, we still require horrible fossil fuels to power these beasts to be willing to help cover petrol costs.  I'll do some calcs to provide an indicative figure of what is helpful given distance, etc closer to the time.
+
+3. Be able to cope with the drive. It's a pretty long drive and while I'm sure the first 5 hours will go super fast bagging out jQuery or alternative target, you'll require some stamina to enjoy the trip.
+
+With the right attitude this will be awesome, and most likely heaps more fun than flying. So if you are keen, register your interest at DamonOehlman/campjs-v-sydjs-roadtrip#1
+
+## Questions
+
+Feel free to open an issue with any questions you have.
