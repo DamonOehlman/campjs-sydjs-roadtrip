@@ -22,7 +22,7 @@ If you want in on this, then the following criteria are required / desirable:
 
 3. Be able to cope with the drive. It's a pretty long drive and while I'm sure the first 5 hours will go super fast bagging out jQuery or alternative target, you'll require some stamina to enjoy the trip.
 
-With the right attitude this will be awesome, and most likely heaps more fun than flying. So if you are keen, register your interest at DamonOehlman/campjs-v-sydjs-roadtrip#1
+With the right attitude this will be awesome, and most likely heaps more fun than flying. So if you are keen, [register your interest](https://github.com/DamonOehlman/campjs-v-sydjs-roadtrip/issues/1).
 
 ## Questions
 
