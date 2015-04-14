@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [{
     "type": "Feature",
-    "geometry": { "type": "Point", "coordinates": [ -38.390482, 145.146303 ] },
+    "geometry": { "type": "Point", "coordinates": [ 145.146303,  -38.390482 ] },
     "properties": {
       "name": "Lord Somers Camp"
     }
