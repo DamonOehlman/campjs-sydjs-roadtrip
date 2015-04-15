@@ -1,5 +1,7 @@
 # CampJS V RoadTrip (from Sydney)
 
+![](https://raw.githubusercontent.com/DamonOehlman/campjs-sydjs-roadtrip/gh-pages/assets/campjs-02.png)
+
 Purpose of this repository is to coordinate a roadtrip down to [CampJS V](http://v.campjs.com) from Sydney.  While planes are lovely and all, @jedwatson mentioned he was road tripping with the @thinkmill crew and I thought, "hey that's a pretty good idea".  So I started trying to think about what it might look like if we got a few more people involved.
 
 ## Rally Points
