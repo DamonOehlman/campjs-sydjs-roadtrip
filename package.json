@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "blockdown src/template.html < README.md > index.html"
+    "fonts": "mkdir -p fonts && cp node_modules/campjs/fonts/* fonts/",
+    "html": "blockdown src/template.html < README.md > index.html",
+    "css": "npm run fonts && cssnext src/main.css > main.css",
+    "generate": "npm run html && npm run css"
   },
   "repository": {
     "type": "git",
