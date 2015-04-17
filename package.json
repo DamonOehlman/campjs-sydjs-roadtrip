@@ -1,0 +1,28 @@
+{
+  "name": "campjs-sydjs-roadtrip",
+  "version": "1.0.0",
+  "description": "CampJS Roadtrip from Sydney",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "blockdown src/template.html < README.md > index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/campjs-sydjs-roadtrip.git"
+  },
+  "keywords": [
+    "roadtrip"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/campjs-sydjs-roadtrip/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/campjs-sydjs-roadtrip",
+  "devDependencies": {
+    "basscss-base-reset": "^1.0.0",
+    "blockdown": "^0.4.3",
+    "cssnext": "^1.2.3"
+  }
+}
