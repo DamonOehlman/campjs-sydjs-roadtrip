@@ -26,6 +26,7 @@
   "devDependencies": {
     "basscss-base-reset": "^1.0.0",
     "blockdown": "^0.4.3",
+    "campjs": "git://github.com/campjs/campjs-v.git#gh-pages",
     "cssnext": "^1.2.3"
   }
 }
